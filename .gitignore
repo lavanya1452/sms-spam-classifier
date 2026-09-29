@@ -1,0 +1,7 @@
+# Ignore model checkpoints and outputs
+results/
+checkpoint-*/
+runs/
+*.joblib
+__pycache__/
+.ipynb_checkpoints/
